@@ -1,0 +1,46 @@
+.uno {
+    background-image: url(https://bebidassingulares.es/wp-content/uploads/2021/01/COMPROMISO-AGUA-FIJI.jpg);
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 500;
+    
+
+    
+}
+
+.dos {
+    background-color: black;
+    min-height: 300px;
+    text-align: center;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.tres {
+    background-image: url(https://t2.ea.ltmcdn.com/es/posts/1/3/2/como_hacer_feliz_a_tu_perro_24231_orig.jpg);
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 500;
+}
+p {
+    
+}
